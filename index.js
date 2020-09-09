@@ -8,6 +8,6 @@ function theBeatlesPlay(musicians, instruments) {
   for (i = 0; i < musicians.length; i++) {
     musicians[0] = "John Lennon "
     instruments[0] = "plays guitar"
-    empty.push(`${musicians[i]} ${instruments[i]}`)
+    empty.push(`${musicians[0]} ${instruments[0]}`)
   }
 }
