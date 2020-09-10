@@ -1,7 +1,7 @@
 // add solutions here
 
 musicians = ["John Lennon ", "Paul McCartney ", "George Harrison ", "Ringo Starr "]
-instruments = ["plays Guitar", "plays Bass Guiter", "plays Lead Guitar", "plays Drums"]
+instruments = ["Guitar", "Bass Guiter", "Lead Guitar", "Drums"]
 
 function theBeatlesPlay(musicians, instruments) {
   var empty = []
