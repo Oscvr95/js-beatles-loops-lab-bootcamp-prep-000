@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
   let i = 0
 
   while( i < facts.length) {
-    facts.push(`${facts[i]}!!!`)
+    facts[i] = ([i] + "!!!")
     i++
   }
   return facts
